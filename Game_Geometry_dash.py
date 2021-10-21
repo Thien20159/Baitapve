@@ -55,7 +55,6 @@ x_obstacles15 = 1900
 x_obstacles16 = 2000
 x_obstacles17 = 2115
 
-
 x_op_obstacles1 = 400
 x_op_obstacles2 = 600
 x_op_obstacles3 = 630
